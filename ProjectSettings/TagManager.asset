@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - left_lane_hor
+  - right_lane_hor
+  - left_lane_ver
+  - right_lane_ver
+  - score
+  - cargo_pickup_menu
+  - weight
+  - booster
+  - time_extender
+  - cargo_size
+  - cargo_timer
+  - cargo
+  - cargo_pickedup
+  - highscore
+  - arrow
+  - AudioManager
+  - engine_sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CargoMenu
+  - PauseMenu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1219990513
+    locked: 0
+  - name: Roads
+    uniqueID: 4171894713
+    locked: 0
+  - name: Border
+    uniqueID: 943543947
+    locked: 0
+  - name: Zones
+    uniqueID: 717842481
+    locked: 0
+  - name: Models
+    uniqueID: 3941232211
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: easter eggs
+    uniqueID: 3308207219
+    locked: 0
