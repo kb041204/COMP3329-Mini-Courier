@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1iTc5gYV14hhBvom3Lprq3pEDvQv4Yag1/view?usp=shari
 3. Double click Mini Courier.exe to start the game
 
 ## Additional library used
-* TextMeshPro: For better texts customization in the GUI, it seems that TMP is included in Unity be default
+* TextMeshPro: For better texts customization in the GUI, it seems that TMP is included in Unity by default
 
 ## How to play the game
 * You can learn how to play the game and the UI elements by clicking “How to play”
