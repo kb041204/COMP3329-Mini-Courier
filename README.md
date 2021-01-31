@@ -1,6 +1,9 @@
 # COMP3329-Mini-Courier
 A Unity game that simulate the daily routine of couriers in minimalistic design
 
+## Release (exe file) download
+https://drive.google.com/file/d/1iTc5gYV14hhBvom3Lprq3pEDvQv4Yag1/view?usp=sharing
+
 ## Installation guideline
 1. Extract the zip file (Mini Courier EXE.zip)
 2. Navigate to ./Mini Courier/
@@ -23,5 +26,3 @@ A Unity game that simulate the daily routine of couriers in minimalistic design
 If you find the GUI element not in the correct position, like below, please click the “play” button first and then “stop”. All the GUI element should go back to where they belong.
 ### Note 2
 Please don’t just play the game by pressing “play” at the Unity Editor, the game will not function properly. Instead, please make a build of the game and play that build.
-### Note 3
-If you somehow cannot compile the game, you can download the EXE here: https://drive.google.com/file/d/1iTc5gYV14hhBvom3Lprq3pEDvQv4Yag1/view?usp=sharing
